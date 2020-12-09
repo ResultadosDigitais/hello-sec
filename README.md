@@ -24,7 +24,7 @@ You need to implement an authentication mechanism with as many of the following 
 * HTTPS
 * Known password check
 
-You will have to create a simple binary (platform of your choice) to provide any server side functionality you may require. Please document steps to run the application. Your submission should be a link to your Github repository which you've already forked earlier together with the source code and binaries.
+You will have to create a simple binary (platform of your choice) to provide any server side functionality you may require. Please document steps to run the application.
 
 * If you need to make any changes to help you debugging (such as adding logs or catching exceptions) we suggest you keep them so we can understand your thought process.
 
