@@ -47,10 +47,9 @@ When assessing this exercise, we will take the following points into considerati
 * Whether the solution works or not
 * How _easy_ it is to deploy the solution
 * How _secure_ it is
+* The mindset behind the solution. Do you really need to code everything down in modern&secure environments?
 
-Suppose that a _junior_ developer (who has access to most common Linux distributions and an GCP account) will try to run your solution. Would they be able to install all requirements and run it easily? Will they need to worry about the security? If a security incident occurs, such as account takeover, will support be able to easily identify the attacker in the logs?
-
-We don't expect a production-grade solution, but we expect you to show that you'd be able to develop and deploy a production-grade distributed system given enough tools and time.
+We don't expect a production-grade solution and the aim is not the correctness of code, but we expect you to show that you'd be able to develop and deploy a production-grade login system given that you will work protecting and breaking systems like this.
 
 ## Submissions
 
